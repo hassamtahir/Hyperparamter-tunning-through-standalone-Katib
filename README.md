@@ -15,6 +15,7 @@ Metric Collection: During hyperparameter tuning, Katib collects and logs metrics
 Integration with Other Kubeflow Components: Katib can be integrated with other Kubeflow components like TensorFlow, PyTorch, and other machine learning frameworks, enabling seamless experimentation and training on Kubernetes.
 
 # Experimental Steps
+-->Pre-requisite: Do add ML model file which you want to fine-tune/train on custom dataset
 Step#1:
 Cross check katib installation and its components:
 ![1](https://github.com/hassamtahir/Hyperparamter-tunning-through-standalone-Katib/assets/58023371/5da63ed1-d4c3-4175-902e-d91cbe0beb0e)
